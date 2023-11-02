@@ -20,7 +20,7 @@ int main()
 	}
 	else if (option == 2)
 	{
-		cout << "Enter the name of the book you want to return:\n";
+		cout << "Enter the name of the book you want to retur    n:\n";
 		getline(cin, book_return);
 		cout << "Enter the Issue date of book: \n";
 		cin >> issue_date;
